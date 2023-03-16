@@ -1,7 +1,5 @@
-# RBK-COHORT6-22-cow-list# CowList
+cow-list# CowList
 
-Forked from:
-[https://trk.re/cowlist](https://trk.re/cowlist)
 
 ## Instructions
 
